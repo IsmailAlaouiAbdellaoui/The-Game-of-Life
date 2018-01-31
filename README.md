@@ -2,7 +2,9 @@
 
 ## Replica of the famous complex system designed by John onway
 
-**Processing** is needed in order to run this file.
+**Processing.js** is needed in order to run this file.
+
+You can download processing here : http://processingjs.org/download/
 
 Sample Output :
 
