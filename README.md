@@ -5,7 +5,8 @@
 **Processing** is needed in order to run this file.
 
 Sample Output :
-![gif.ca](https://gfycat.com/EvenBitesizedGlassfrog)
+
+![gif.ca](https://thumbs.gfycat.com/EvenBitesizedGlassfrog-max-14mb.gif)
 
 *The rules of this cellular automaton are the following :*
 
