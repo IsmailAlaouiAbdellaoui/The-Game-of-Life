@@ -6,7 +6,7 @@
 
 Sample Output :
 
-![gif.ca](https://thumbs.gfycat.com/EvenBitesizedGlassfrog-max-14mb.gif)
+![gif.ca](https://github.com/IsmailAlaouiAbdellaoui/The-Game-of-Life/blob/master/EvenBitesizedGlassfrog-max-14mb.gif)
 
 *The rules of this cellular automaton are the following :*
 
